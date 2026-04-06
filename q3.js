@@ -15,7 +15,7 @@ function  MC(){
         k = Math.floor(k / 10);
     }
     if(revnum==(N+i) && (N+i)%K==0){
-        alert("NUMBER IS:"+revnum);
+        alert("NUMBER IS:"+i);
         p=0;
         break;
      }
